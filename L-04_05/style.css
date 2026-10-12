@@ -1,0 +1,72 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.heading{
+    display:flex;
+    justify-content:space-between;
+    margin-bottom: 20px;
+}
+
+.img{
+    position: relative;
+    left: 10px;
+    top: 10px;
+    height: 40px;
+    width: 40px;
+}
+
+.option{
+    padding-top: 20px;
+}
+
+.but,.btn{
+    cursor: pointer;
+    margin-right: 10px;
+    border: none;
+    font-size: 20px;
+    background-color: white;
+}
+
+.searchbar{
+    position: relative;
+    top: 20px;
+    height: 20px;
+    width: 500px;
+}
+
+.btn{
+   padding-top: 20px;
+   margin-right: 20px;
+}
+
+.middle{
+    background-color: rgb(227, 237, 234);
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 50px;
+    border:"2px solid black";
+    padding:"4px";
+    justify-content: center;
+}
+
+.card{
+    background-color: rgb(5, 80, 55);
+    color: white;
+}
+
+.footer{
+    margin-top: 20px;
+    position: relative;
+    margin-left: 260px;
+    margin-right: 40px;
+}
+
+.sbtn{
+    margin-left: 10px;
+    margin-top: 20px;
+    background-color: bisque;
+    font-size: 20px;
+}

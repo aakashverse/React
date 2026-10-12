@@ -1,0 +1,28 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.nav{
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    margin: 8px;
+}
+
+.btn{
+    background-color: white;
+    color: black;
+    text-decoration: none;
+    border: 2px solid black;
+    padding: 3px;
+}
+
+.content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin-top: 20px;
+}

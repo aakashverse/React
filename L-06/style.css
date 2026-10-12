@@ -1,0 +1,27 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+#root{
+    background-color: black;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.first{
+    background-color: white;
+    height: 200px;
+    width: 300px;
+    text-align: center;
+}
+
+button{
+    margin-right: 10px;
+    background-color: orange;
+    font-size: 15px;
+    height: 60px;
+    width: 120px;
+}

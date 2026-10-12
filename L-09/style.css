@@ -1,0 +1,58 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+#heading{
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(33, 83, 121);
+
+}
+
+img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+h1{
+    font-size: 50px;
+    color: white;
+    font-weight: bold;
+}
+
+.profiles{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.cards{
+    padding: 20px 20px;
+    margin-left: 10px;
+    margin-top: 10px;
+    text-align: center;
+    border: 2px solid black;
+}
+
+.search{
+    margin-top: 20px;
+    text-align: center;
+}
+
+.btn{
+    margin-left: 10px;
+    padding: 2px;
+    background-color:  rgb(33, 83, 121);
+    color: white;
+}
+
+.input{
+    padding-left: 1vw ;
+}

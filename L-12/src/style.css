@@ -1,0 +1,27 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+}
+
+.btn{
+    background-color: aquamarine;
+    text-decoration: none;
+    border: 2px solid black;
+    padding: 3px;
+}
+
+.content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: grey;
+    height: 100vh;
+    margin-top: 20px;
+}
